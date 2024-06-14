@@ -9,20 +9,20 @@ importers:
   .:
     dependencies:
       fastify:
-        specifier: ^4.27.0
+        specifier: 4.27.0
         version: 4.27.0
     devDependencies:
       '@types/node':
-        specifier: ^20.14.2
+        specifier: 20.14.2
         version: 20.14.2
       tsup:
-        specifier: ^8.1.0
+        specifier: 8.1.0
         version: 8.1.0(typescript@5.4.5)
       tsx:
-        specifier: ^4.15.4
+        specifier: 4.15.4
         version: 4.15.4
       typescript:
-        specifier: ^5.4.5
+        specifier: 5.4.5
         version: 5.4.5
 
 packages:
